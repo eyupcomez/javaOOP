@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739f5b60-1a8f-49aa-ab87-a620d8f5f3f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/bankAccount/bankAccount.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGUI/src/javagui/frmIntro.form" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGUI/src/javagui/frmIntro.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGUI/src/javagui/frmIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGUI/src/javagui/frmIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +14,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="39dO4HU3tsViRpHM8zdJpBwuQK9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +30,8 @@
     "git-widget-placeholder": "GUI",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/eyup/javaOOP",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
